@@ -1,0 +1,28 @@
+[
+  {
+    "id": "builtin_text-cU-IZ3",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hello",
+      "variations$en": [
+        "Hi",
+        "Hey"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-01-27T23:06:50.932Z",
+    "modifiedOn": "2021-01-27T23:06:50.932Z"
+  },
+  {
+    "id": "builtin_text-BOJCwh",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "How are you feeling today?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-01-27T23:33:56.823Z",
+    "modifiedOn": "2021-01-27T23:33:56.823Z"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "feelings"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-cU-IZ3"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "5a8f79cba0",
+      "name": "feelings",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-BOJCwh"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}
