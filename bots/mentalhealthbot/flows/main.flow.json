@@ -27,7 +27,7 @@
       "onEnter": [
         "say #!builtin_text-BOJCwh"
       ],
-      "onReceive": null,
+      "onReceive": [],
       "type": "standard"
     }
   ]

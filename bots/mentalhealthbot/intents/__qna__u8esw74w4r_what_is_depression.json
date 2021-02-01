@@ -1,0 +1,14 @@
+{
+  "name": "__qna__u8esw74w4r_what_is_depression",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "what is depression?",
+      "depression?",
+      "what's depression?"
+    ]
+  },
+  "slots": []
+}
