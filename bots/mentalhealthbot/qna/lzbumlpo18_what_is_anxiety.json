@@ -1,0 +1,24 @@
+{
+  "id": "lzbumlpo18_what_is_anxiety",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Anxiety is a feeling of unease, such as worry or fear, that can be mild or severe.",
+        "Anxiety is your body’s natural response to stress. It’s a feeling of fear or apprehension about what’s to come. "
+      ]
+    },
+    "questions": {
+      "en": [
+        "what is anxiety?",
+        "explain anxiety?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}

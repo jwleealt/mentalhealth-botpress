@@ -1,0 +1,13 @@
+{
+  "name": "__qna__lzbumlpo18_what_is_anxiety",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "what is anxiety?",
+      "explain anxiety?"
+    ]
+  },
+  "slots": []
+}
