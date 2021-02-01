@@ -1,0 +1,25 @@
+{
+  "id": "68zsknav9p_what_is_mental_health",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices.",
+        "A state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community"
+      ]
+    },
+    "questions": {
+      "en": [
+        "what is mental health?",
+        "can you explain mental health?",
+        "what's mental health?"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
