@@ -1,0 +1,25 @@
+{
+  "id": "92exw36mv9_common_mental_illness_in_singapore",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "As of 2019, the top 5 mental health conditions among Singaporeans are depression, anxiety, schizophrenia, bipolar disorder and substance abuse.",
+        "They are depression, anxiety, schizophrenia, bipolar disorder and substance abuse"
+      ]
+    },
+    "questions": {
+      "en": [
+        "common mental illness in singapore",
+        "what are the common mental health conditions in singapore?",
+        "tell me the most common mental problem in singapore"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
