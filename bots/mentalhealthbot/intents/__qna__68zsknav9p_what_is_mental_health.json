@@ -1,0 +1,14 @@
+{
+  "name": "__qna__68zsknav9p_what_is_mental_health",
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "what is mental health?",
+      "can you explain mental health?",
+      "what's mental health?"
+    ]
+  },
+  "slots": []
+}
